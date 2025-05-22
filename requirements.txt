@@ -1,0 +1,11 @@
+PyPDF2>=3.0.1
+pdf2image>=1.17.0
+pytesseract>=0.3.13
+presidio-analyzer>=2.2.355
+joblib>=1.4.2
+streamlit>=1.39.0
+pandas>=2.2.3
+spacy>=3.7.2
+sentence-transformers>=3.1.1
+scikit-learn>=1.5.2
+torch>=2.4.1
