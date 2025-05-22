@@ -9,3 +9,4 @@ spacy>=3.7.2
 sentence-transformers>=3.1.1
 scikit-learn>=1.5.2
 torch>=2.4.1
+pdfplumber==0.11.4
